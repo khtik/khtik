@@ -1,4 +1,4 @@
-# intellij-generateAllSetMethod
+# khtikintellij-generateAllSetMethod
 
 
 [![GitHub release][release-img]][latest-release] [![Jetbrains Plugins][plugin-img]][plugin] 
