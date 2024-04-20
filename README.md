@@ -23,7 +23,7 @@ support following product build version > 141
 - IntelliJ IDEA
 - IntelliJ IDEA Community Edition
 
-**using IDE plugin system**
+**Using IDE plugin system**
 - <kbd>Preferences(Settings)</kbd> > <kbd>Plugins</kbd> > <kbd>Browse repositories...</kbd> > <kbd>find"GenerateAllSetter"</kbd> > <kbd>Install Plugin</kbd>
 
 **Manual:**
@@ -31,12 +31,12 @@ support following product build version > 141
 
 restart **IDE**.
 
-## contribute 
+## Contribute 
 - import the project to Intellij
 - add a gradle task runIde
 - change the code and run the task to see the change
 
-## my other plugins
+## My other plugins
 - MybatisCodeHelperPro  https://github.com/gejun123456/MyBatisCodeHelper-Pro
 
 - StackOverFlow https://github.com/gejun123456/IntellijGoToStackOverFlow
@@ -45,3 +45,10 @@ restart **IDE**.
 [latest-release]: https://github.com/gejun123456/intellij-generateAllSetMethod/releases/latest
 [plugin-img]: https://img.shields.io/badge/plugin-9360-orange.svg
 [plugin]: https://plugins.jetbrains.com/plugin/9360
+
+# License
+
+This project is licensed under **The MIT License (MIT)**, see the
+[LICENSE](LICENSE) file for more details.
+
+This project is tested with BrowserStack.
